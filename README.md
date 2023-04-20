@@ -1,2 +1,2 @@
-# Shortcut The placement 
+# Shortcut The placement 🤖
 **This is a placement resources repo**
